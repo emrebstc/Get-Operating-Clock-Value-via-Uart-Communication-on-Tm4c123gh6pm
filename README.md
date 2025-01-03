@@ -1,1 +1,1 @@
-# Get-Operating-Clock-Value-via-Uart-Communication-on-Tm4c123gh6pm
+The desired clock speed is processed in tm4c123gh6pm using uart communication with the application which is written in sharpdevelop.
